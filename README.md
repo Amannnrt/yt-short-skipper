@@ -1,0 +1,1 @@
+most yt shorts are 1-2 min long it shoold have the option to skip forward 10 sec with arrow keys  i dont know why they have not done this so i wrote this simple code you can unpack it  as a extension and use it 
